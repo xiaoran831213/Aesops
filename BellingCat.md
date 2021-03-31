@@ -2,7 +2,7 @@ This is a test file
 
 # Belling the Cat
 
-http://read.gov/aesop/media/belling-the-cat_Resources/belling-the-cat-5.jpg
+![](http://read.gov/aesop/media/belling-the-cat_Resources/belling-the-cat-5.jpg)
 
 The Mice once called a meeting to decide on a plan to free themselves of their enemy, the Cat. At least they wished to find some way of knowing when she was coming, so they might have time to run away. Indeed, something had to be done, for they lived in such constant fear of her claws that they hardly dared stir from their dens by night or day.
 
